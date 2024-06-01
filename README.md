@@ -3,12 +3,11 @@
 
 <img src="https://github.com/TommyP702/TanPham/assets/169327735/f7fae3bf-7fe0-4ac0-b8eb-9be5ebaf7d85" width="300" height="200">
 
-I'm 31 year old have a strong passion for computers ever since I was 11 with my first eMachine "Never Obsolete"
+I'm a 31 year old have a strong passion for computers ever since I was 11 with my first eMachine "Never Obsolete"
 
 ## Objective
 
-My passion has lead me into cybersecurity, and I am now aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I have provided as much as I can with the skillset I currently have and will continue to add more as I dive deeper into this line of work. 
--P.S thank you, for taking the time to read this. =)
+My passion for cybersecurity drives me to pursue a role as a Analyst in a Security Operations Center (SOC). I am continuously honing my skills and expanding my knowledge in this field, and I am eager to contribute to a dynamic team. Thank you for taking the time to read my profile! =)
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -19,8 +18,8 @@ My passion has lead me into cybersecurity, and I am now aiming to join a Securit
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with TheHive                  | |
+| Scripting and Automation for Threat Mitigation | In-progress |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,11 +47,10 @@ My passion has lead me into cybersecurity, and I am now aiming to join a Securit
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
