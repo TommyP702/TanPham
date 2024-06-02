@@ -22,7 +22,6 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 |  Python Scripting for network analysis         | In progress |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
