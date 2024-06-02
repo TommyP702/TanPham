@@ -17,7 +17,7 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 </a> |
 | Wireshark + ChatGPT for DNS Malicious Evident  | In progresss|
 | VMware Dynamic Malware Analysis                | In Progress|
-| PCAP capture Smart Phones Analysis             | In Progress|
+| Capture PCAP Mobile Devices Analysis             | In Progress|
 | Setting up Honey Pot                           | In progresss |
 |  Python Scripting for network analysis         | In progress |
 
