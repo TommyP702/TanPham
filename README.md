@@ -7,10 +7,9 @@ I'm a 31 year old have a strong passion for computers ever since I was 11 with m
 
 ## Objective
 
-My passion for cybersecurity drives me to pursue a role as a Analyst in a Security Operations Center (SOC). I am continuously honing my skills and expanding my knowledge in this field, and I am eager to contribute to a dynamic team. Thank you for taking the time to read my profile! =)
+My passion for cybersecurity drives me to pursue a role as a Analyst in a Security Operations Center (SOC). I am continuously honing my skills and expanding my knowledge in this field. Thank you for taking the time to read my profile! =)
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
@@ -35,14 +34,14 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <!--  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> -->
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <!--  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> -->
+   <!--  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
 </div>
 
 ## Certifications
@@ -51,9 +50,7 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 <img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Google IT-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
