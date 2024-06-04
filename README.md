@@ -16,10 +16,10 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 | Active Directory Setup                         | <a  href="https://github.com/TommyP702/Active-Directory/blob/main/README.md">Active Directory Project<
 </a> |
 | Wireshark + ChatGPT for DNS Malicious Evident  | In progresss|
-| VMware Dynamic Malware Analysis                | In Progress|
-| Capture PCAP Mobile Devices Analysis             | In Progress|
-| Setting up Honey Pot                           | In progresss |
-|  Python Scripting for network analysis         | In progress |
+| VMware Dynamic Malware Analysis                | In Progress |
+| Capture PCAP Mobile Devices Analysis           | In Progress |
+| Reverse Engineer Malware                       | In progresss|
+| Python Scripting For Network Analysis         | In progress |
 
 ## Tools
 
