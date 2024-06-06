@@ -13,13 +13,12 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
-| Active Directory Setup                         | <a  href="AD/Active-Directory Project01.md">Active Directory Project<
-</a> |
+| Active Directory Setup                         | <a  href="AD/Active-Directory Project01.md">Active Directory Project</a> |
 | Wireshark + ChatGPT for DNS Malicious Evident  | In progresss|
 | VMware Dynamic Malware Analysis                | In Progress |
 | Capture PCAP Mobile Devices Analysis           | In Progress |
-| Reverse Engineer Malware                       | In progresss|
-| Python Scripting For Network Analysis         | In progress |
+| Malware Static/Dynamic Analysis                | <a  href="Dynamic Malware Analysis/DMA_Project01.md">Malware Analysis</a>|
+| Python Scripting For Network Analysis          | In progress |
 
 ## Tools
 
