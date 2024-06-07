@@ -3,7 +3,7 @@
 
 <img src="https://github.com/TommyP702/TanPham/assets/169327735/f7fae3bf-7fe0-4ac0-b8eb-9be5ebaf7d85" width="300" height="200">
 
-I'm a 31 year old have a strong passion for computers ever since I was 11 with my first eMachine "Never Obsolete"
+I'm 31 year old, have a strong passion for computers ever since I was 11 with my first eMachine "Never Obsolete"
 
 ## Objective
 
