@@ -9,7 +9,7 @@ I'm a 31 year old have a strong passion for computers ever since I was 11 with m
 
 My passion for cybersecurity drives me to pursue a role as a Analyst in a Security Operations Center (SOC). I am continuously honing my skills and expanding my knowledge in this field. Thank you for taking the time to read my profile! =)
 
-## Skills
+## Projects in Orders
 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
