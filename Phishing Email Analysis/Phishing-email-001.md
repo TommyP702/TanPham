@@ -10,18 +10,22 @@ I'll be guiding you through the steps and processes I'll be taking. Lets have so
 <!-- wp:group {"layout":{"type":"flex","orientation":"vertical"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
-<li><a href="#1">Using online tool such as Virustotal.com</a></li>
+<li><a href="#1">What is the return path of the email?</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="#2">What is the DNS of your url in the mail / Email header</a></li>
+<li><a href="#2">What is the domain name of the url in this mail?</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="#3">Suspicious or clean? (TLS or SSL encryption?)</a></li>
+<li><a href="#3">Is the domain mentioned in the previous question suspicious?</a></li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->
-<li><a href="#4">Using VIrustotal to see SHA 256 value </a></li>
+<li><a href="#4">What is the body SHA-256 of the domain? </a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#5">Is this email a phishing email? </a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:separator -->
