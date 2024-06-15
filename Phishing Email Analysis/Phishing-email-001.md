@@ -1,7 +1,7 @@
 # Hello World, This will be one of my Email Phishing project 001
 
 <image src="https://github.com/TommyP702/TanPham/assets/169327735/4b2a88b9-dcd7-442b-91fa-8daaf22777d4" alt="Image from GitHub" class="wp-image-5001" width="400" height="300"/>
-
+<p><font size="+2">NOTE: even tho sometime many OSINT url scanners say clean, we cannot determine if its a false positive. credit goes to my mentor steven that reminded me to always be on my toes when it comes to phishing as threat actors will find new method to compromised someone account.</font> </p>
 
 I'll be guiding you through the steps and processes I'll be taking. Lets have some fun!
 
@@ -63,6 +63,35 @@ I'll be guiding you through the steps and processes I'll be taking. Lets have so
 
 <p>Answer to question 2: storage.googleapis.com </p>
 
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<p> lets try to translate what this is saying, we dont have to download any extra addon and just go copy this to your "clipboard" and paste it outside of our VM to google</p>
+
+<img src="https://github.com/TommyP702/TanPham/assets/169327735/844cef58-86c3-4be6-839b-9fd0a145a7b3" alt="Image from GitHub" class="wp-image-5001" width="500" height="500">
+
+<p> is this suspicious? </p>
+<p>Question 3: Yes</p>
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<p>Now can go back to question 2 regarding the url of the mail. Remeber about the "a href=" well we're going to use that url -> copy > paste into virustotal.com</p>
+
+<p>"storage.googleapis.com/hqyoqzatqthj/aemmfcylvxeo.html#QORHNZC44FT4.QORHNZC44FT4?dYCTywfcxr3jcxxrmcdcKBdmc5D6qfcJVcbbb4M"</p>
+
+<img src="https://github.com/TommyP702/TanPham/assets/169327735/d52bfdff-013f-45b0-bff6-75e5610bf072" alt="Image from GitHub" class="wp-image-5001">
+
+<img src="https://github.com/TommyP702/TanPham/assets/169327735/3c67e6d1-5f48-49a8-9b73-e257e01cfff3" alt="Image from GitHub" class="wp-image-5001">
+
+<p>Question 4: SHA-256 = ae71057b738935cb60b60ea62778cdaee35b08534597fb136cbc3feffeff4c22</p>
+
+<p>Question 5: is this a phishing?: yes, reason beside virustotal we can confirm from other osint tools, can we check the =SPF in the header to confirm the SMTP address 134.195.196.43 and the return path are both seprate destination.</p>
+
+<p>"drum roll" Done!</p>
 
 
 
