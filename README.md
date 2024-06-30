@@ -17,7 +17,7 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 | Setting up Microsoft Sentinel SIEM             | In progresss|
 | Setting up Segment VLAN                        | In Progress | 
 | Email Forensic for Phishing                    | <a  href="Phishing Email Analysis/Phishing-email-001.md">Phishing Projects</a>||
-| Malware Static/Dynamic Analysis                | <a  href="Dynamic Malware Analysis/DMA_Project01.md">Malware Analysis</a>|
+| Malware Static/Dynamic Analysis                | <a  href="Dynamic Malware Analysis/malware_AheGmkp.exe.md">Malware Analysis</a>|
 | Vulnerability Scanner Deployment                | <a  href="Vulnerability Scanner Deployment/Nessus Setup on Win10 VM.md">Nessus Scanner</a> |
 
 ## Tools
