@@ -16,9 +16,9 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 | Active Directory Setup                         | <a  href="Active Directory/Active-Directory Project01.md">Active Directory Project</a> |
 | Setting up Microsoft Sentinel SIEM             | In progresss|
 | Setting up Segment VLAN                        | In Progress | 
-| Email Analysis for Phishing                    | <a  href="Phishing Email Analysis/Phishing-email-001.md">Phishing Projects</a>||
+| Email Forensic for Phishing                    | <a  href="Phishing Email Analysis/Phishing-email-001.md">Phishing Projects</a>||
 | Malware Static/Dynamic Analysis                | <a  href="Dynamic Malware Analysis/DMA_Project01.md">Malware Analysis</a>|
-| Python Scripting For Network Analysis          | In progress |
+| Vulnerability Scanner Deployment          | In progress |
 
 ## Tools
 
