@@ -13,7 +13,7 @@ My passion for cybersecurity drives me to pursue a role as a Analyst in a Securi
 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
-| Active Directory Setup                         | <a  href="Active Directory/Active-Directory Project01.md">Active Directory Project</a> |
+| Active Directory                        | <a  href="Active Directory/Active-Directory Project01.md">Active Directory Project</a> |
 | Setting up Microsoft Sentinel SIEM             | In progresss|
 | Setting up Segment VLAN                        | In Progress | 
 | Email Forensic for Phishing                    | <a  href="Phishing Email Analysis/Phishing-email-001.md">Phishing Projects</a>||
