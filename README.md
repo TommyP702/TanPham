@@ -19,7 +19,7 @@ My name is Tan, and I have a strong passion for digital forensics. Learning the 
 | Registry Forensic                            | In Progress | 
 | Network Forensic w/ Wireshark                   | In Progress |
 | Bluetooth Forensic Automobile      | In Progress|
-| Smartphones Forensic                               | In Progress |
+| Mobile Device Forensic                               | In Progress |
 
 
 ## Projects in Orders (links to my repository)
