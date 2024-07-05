@@ -10,6 +10,18 @@ Hi World,
 
 My name is Tan, and I have a strong passion for digital forensics. Learning the ability to decrypt files, extract data from devices, and monitor network traffic through PCAP logs has driven me to focus my core skills in this field. My longstanding interest in both cybersecurity and law enforcement fuels my belief that my work can make a positive impact on the world. I am committed to developing my skills through hands-on labs and practical experience as I pursue my career in digital forensics.
 
+## My Digital Forensics Projects
+
+| Skill                                         | Associated Project         |
+|------------------------------------------------|----------------------------|
+| Forensic Harddrive Recovery                    | In Progress   |
+| Recovery Deleted History Logs / Linux              | In progress|
+| Registry Forensic                            | In Progress | 
+| Email Forensic w/ Wireshark                   | In Progress |
+| Bluetooth Forensic Automobile      | In Progress|
+| Smartphones Forensic                               | In Progress |
+
+
 ## Projects in Orders (links to my repository)
 
 | Skill                                         | Associated Project         |
