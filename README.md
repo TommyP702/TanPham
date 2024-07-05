@@ -17,7 +17,7 @@ My name is Tan, and I have a strong passion for digital forensics. Learning the 
 | Forensic Harddrive Recovery                    | In Progress   |
 | Recovery Deleted History Logs / Linux              | In progress|
 | Registry Forensic                            | In Progress | 
-| Email Forensic w/ Wireshark                   | In Progress |
+| Network Forensic w/ Wireshark                   | In Progress |
 | Bluetooth Forensic Automobile      | In Progress|
 | Smartphones Forensic                               | In Progress |
 
