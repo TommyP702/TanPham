@@ -11,7 +11,7 @@ Hi World,
 My name is Tan, and I have a strong passion for digital forensics. Learning the ability to decrypt files, extract data from devices, and monitor network traffic through PCAP logs has driven me to focus my core skills in this field. My longstanding interest in both cybersecurity and law enforcement fuels my belief that my work can make a positive impact on the world. I am committed to developing my skills through hands-on labs and practical experience as I pursue my career in digital forensics.
 
 ## My Digital Forensics Projects
-
+-All projects are owned by me and used in a isolated lab environment
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
 | Forensic Harddrive Recovery                    | In Progress   |
@@ -27,7 +27,7 @@ My name is Tan, and I have a strong passion for digital forensics. Learning the 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
 | Active Directory                        | <a  href="Active Directory/Active-Directory Project01.md">Active Directory Project</a> |
-| Setting up Microsoft Sentinel SIEM             | In progresss|
+| Setting up Microsoft Sentinel SIEM             | In progress |
 | Setting up Segment VLAN                        | In Progress | 
 | Email Forensic for Phishing                    | <a  href="Phishing Email Analysis/Phishing-email-001.md">Phishing Projects</a>||
 | Malware Static/Dynamic Analysis                | <a  href="Dynamic Malware Analysis/malware_AheGmkp.exe.md">Malware Analysis</a>|
