@@ -14,11 +14,11 @@ My name is Tan, and I have a strong passion for digital forensics. Learning the 
 -All projects are owned by me and used in an isolated lab environment for educational purposes only.
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
-| Forensic Harddrive Recovery                    | In Progress   |
+| Forensic Harddrive Recovery / USB                   | In Progress   |
 | Recovery Deleted History Logs / Linux              | In progress|
-| Registry Forensic                            | In Progress | 
+| Ram Forensic                            | In Progress | 
 | Network Forensic w/ Wireshark                   | In Progress |
-| Bluetooth Forensic Automobile      | In Progress|
+| Bluetooth Forensic      | In Progress|
 | Mobile Device Forensic                               | In Progress |
 
 
