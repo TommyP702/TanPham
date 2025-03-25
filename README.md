@@ -8,7 +8,7 @@ I'm 31 year old, have a strong passion for computers ever since I was 11 with my
 ##  My Objective
 Hi World,
 
-My name is Tan, and I have a strong passion for digital forensics. Learning the ability to decrypt files, extract data from devices, and monitor network traffic through PCAP logs has driven me to focus my core skills in this field. My longstanding interest in both cybersecurity and law enforcement fuels my belief that my work can make a positive impact on the world. I am committed to developing my skills through hands-on labs and practical experience as I pursue my career in digital forensics.
+My name is Tan, and I am passionate about digital forensics. Learning the ability to decrypt files, extract data from devices, and monitor network traffic.
 
 ## My Digital Forensics Projects
 -All projects are owned by me and used in an isolated lab environment for educational purposes only.
